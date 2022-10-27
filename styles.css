@@ -23,8 +23,8 @@ body {
 
 body {
   background-image: url(images/pattern-background-desktop.svg);
-  background-repeat: no-repeat;
-  background-size: contain;
+  background-repeat: repeat-x;
+  background-size: 100% 50vmin;
   background-color: var(--pale-blue);
 }
 
